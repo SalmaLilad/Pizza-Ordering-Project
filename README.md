@@ -2,6 +2,7 @@
 **A simple interactive console application built in Python**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI%20Toolkit-orange)
 ![Console](https://img.shields.io/badge/Interface-CLI-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
