@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 Project Overview
+###  Project Overview
 This project is a **text-based pizza ordering system** built using Python.  
 It lets users choose pizza size and add custom toppings, then calculates the total cost dynamically.
 
@@ -16,7 +16,7 @@ Developed as a **learning exercise in conditional logic, functions, and user inp
 
 ---
 
-### ⚙️ Features
+###  Features
 - Menu system with small, medium, and large pizza options  
 - Optional add-ons:
   - 🫑 Peppers  
@@ -28,7 +28,7 @@ Developed as a **learning exercise in conditional logic, functions, and user inp
 
 ---
 
-### 🧩 Tech Stack
+###  Tech Stack
 - **Language:** Python 3  
 - **Libraries:**  
   - `time` — for delays between messages  
@@ -36,7 +36,7 @@ Developed as a **learning exercise in conditional logic, functions, and user inp
 
 ---
 
-### 🚀 How to Run
+###  How to Run
 1. Clone or download the repository  
 2. Open a terminal and run:
    ```bash
